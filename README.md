@@ -1,5 +1,6 @@
 
   # E-Commerce BackEnd
+  [E-Commerce BackEnd](https://drive.google.com/file/d/1VZv7jR5sRr3lI7HQPchWLz8lxMXweTN2/view?usp=sharing) <-- Click Here to view video.
   ## Apache
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -37,7 +38,8 @@ THEN I am able to successfully create, update, and delete data in my database<br
 Give Feedback
 
 # Test
-To test this, first enter your mysql credentials, then run SOURCE db/schema.sql. Next you will quit from mysql databse, and enter onto terminal npm run seed, which will populate the databse with the existing data. Afterwards you will run on terminal npm start to start server, and then proceed to insomia.
+Before anything, create an .env file first, otherwise it will not run. The DB_USER and DB_PASSWORD should be your user and pass for mysql.<br>
+To test this, first enter your mysql credentials, then run SOURCE db/schema.sql. Next you will quit from mysql databse, and enter onto terminal npm run seed, which will populate the databse with the existing data. Afterwards you will run on terminal npm start to start server, and then proceed to insomia.<br>
 
 # Questions
 Here is the following information to reach the creator:
